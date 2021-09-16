@@ -1,0 +1,29 @@
+{
+  "name": "chromeinit",
+  "version": "1.0.0",
+  "description": "Initializes a directory to be developed as a chrome extension",
+  "main": "main.js",
+  "scripts": {
+    "install": "./oninstall.sh"
+  },
+  "bin": {
+      "htmlinit": "./chromeinit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martian17/chromeinit.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "init",
+    "setup",
+    "easy"
+  ],
+  "author": "martian17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martian17/chromeinit/issues"
+  },
+  "homepage": "https://github.com/martian17/chromeinit#readme"
+}

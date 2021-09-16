@@ -1,0 +1,5 @@
+#!/bin/bash
+progdir="/home/yutaro/chromeinit"
+
+cp $progdir/src/* ./
+
